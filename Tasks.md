@@ -6,7 +6,7 @@ Here's a detailed plan to launch your "Paragon Pool" (PGP) token on the Solana b
 
 This phase focuses on setting up your project configuration, preparing metadata, and modifying the token creation script to use the Token-2022 program for future upgradeability.
 
-**Step 1: Update Project Configuration (`MySolanaProjectConfg.json`)**
+**Step 1: Update Project Configuration (`MySolanaProjectConfg.json`)** ✅
 
   * **File to Edit:** `MySolanaProjectConfg.json`
   * **Actions:**
